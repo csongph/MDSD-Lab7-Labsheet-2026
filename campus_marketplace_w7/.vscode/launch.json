@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "campus_marketplace_w7",
+      "request": "launch",
+      "type": "dart",
+      "args": [
+        "--dart-define",
+        "GEMINI_API_KEY=YOUR_GEMINI_API_KEY"
+      ]
+    }
+  ]
+}
